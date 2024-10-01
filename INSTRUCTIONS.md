@@ -31,6 +31,10 @@ Take a look at the different files and folders in the [`src`](./src/) folder. Th
 
 Start the app to make sure the provided code is working. You should see the user interface of the app, but it does not really permits you to make any transactions yet.
 
+## Let's code
+
+Solutions are also provided in the [solutions](SOLUTIONS.md) file, but try to implement the functions yourself first. If you get stuck, take a look at the solutions to get an idea of how to proceed.
+
 ### 1. Create Wallet `createWallet()`
 
 This function creates a new Bitcoin wallet using a mnemonic and the Bitcoin Development Kit (BDK).

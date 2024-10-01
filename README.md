@@ -16,6 +16,10 @@ We think the workshop can be fun and a great learning experience for both develo
 
 The main goal of this workshop is to introduce you to the Bitcoin Development Kit (BDK) and the `bdk_rn` package and get you familiar with its capabilities, APIs and the basic concepts of building a Bitcoin wallet app in React Native.
 
+## How to do the workshop on your own
+
+The workshop can be done on your own by following the [instructions](INSTRUCTIONS.md) in this repository and self-checking your work by comparing it to the [solutions](SOLUTIONS.md).
+
 ## How to conduct the workshop as an instructor/coordinator
 
 If you are planning to conduct this workshop as an instructor or coordinator, please refer to our [Instructor Guide](INSTRUCTOR_GUIDE.md) for strategies, tips and additional resources tailored to facilitating the workshop.
